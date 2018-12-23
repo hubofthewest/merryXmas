@@ -15,7 +15,7 @@ function App() {
           setCount(1)
         }
         }}>
-        Click me
+        Push me
       </button>
         {count === 0? <MerryXmas />: <Image id={count} />}
         
